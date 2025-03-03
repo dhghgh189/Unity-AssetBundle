@@ -1,0 +1,74 @@
+ManifestFileVersion: 0
+CRC: 1385855096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfcfdc5f41db628c5a90f3425da4c2c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4134acf73031fe0bb24df5d1e82faa90
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cfcfdc5f41db628c5a90f3425da4c2c4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Imports/RPGHero/Meshes/PolyartShield.fbx
+- Assets/Imports/RPGHero/Materials/PBR.mat
+- Assets/Imports/RPGHero/Meshes/PolyartSword.fbx
+- Assets/Imports/RPGHero/Meshes/Stage.fbx
+- Assets/Imports/RPGHero/Animations/GetHit_SwordShield.anim
+- Assets/Imports/RPGHero/Animations/Sprint_SwordShield.anim
+- Assets/Imports/RPGHero/Textures/PBR_AO.png
+- Assets/Imports/RPGHero/Prefabs/RPGHeroPolyart.prefab
+- Assets/Imports/RPGHero/PromotionImage.jpg
+- Assets/Imports/RPGHero/Animator/SwordAndShield.controller
+- Assets/Imports/RPGHero/Textures/PBR_Albedo.png
+- Assets/Imports/RPGHero/Animations/DieRecover_SwordShield.anim
+- Assets/Imports/RPGHero/Meshes/Sword.fbx
+- Assets/Imports/RPGHero/Textures/PBR_MS.png
+- Assets/Imports/RPGHero/Animations/Run_SwordShield.anim
+- Assets/Imports/RPGHero/Animations/Walk_SwordShield.anim
+- Assets/Imports/RPGHero/Animations/Die_SwordShield.anim
+- Assets/Imports/RPGHero/Animations/Idle_SwordShield.anim
+- Assets/Imports/RPGHero/Prefabs/RPGHeroPBR.prefab
+- Assets/Imports/RPGHero/Meshes/NewFreeRPGHero.fbx
+- Assets/Imports/RPGHero/Materials/Ground.mat
+- Assets/Imports/RPGHero/Materials/HandPainted.mat
+- Assets/Imports/RPGHero/Animations/NormalAttack01_SwordShield.anim
+- Assets/Imports/RPGHero/Textures/HandPaintedTexture.png
+- Assets/Imports/RPGHero/Materials/PolyArt.mat
+- Assets/Imports/RPGHero/Animations/NormalAttack02_SwordShield.anim
+- Assets/Imports/RPGHero/Meshes/Shield.fbx
+- Assets/Imports/RPGHero/Textures/PBR_NM.png
+- Assets/Imports/RPGHero/Meshes/NewFreeRPGHeroPolyart.fbx
+- Assets/Imports/RPGHero/Prefabs/RPGHeroHP.prefab
+- Assets/Imports/RPGHero/Textures/PolyArtTexture.png
+Dependencies: []
